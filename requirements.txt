@@ -1,0 +1,4 @@
+scikit-learn
+pandas == 1.5.1
+uvicorn
+fastapi
